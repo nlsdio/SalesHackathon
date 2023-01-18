@@ -3,3 +3,7 @@
 @tailwind components;
 /* purgecss end ignore */
 @tailwind utilities;
+/* Inside "styles/style.css" */
+body {
+    background-color: rgb(116, 181, 223);
+}
